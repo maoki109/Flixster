@@ -26,4 +26,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Notes
 When pulling README changes from GitHub, all my work on local files were erased and blank files were committed to GitHub. Fixed the problem by going to Source Control Navigator (on the left side of XCode) > click on "Stashed Changes" > right click initial commit file > Apply Stashed Changes...
 
-Poster images didn't show up at first because of a typo I had in my url
+Poster images didn't show up at first because of a typo I had in my url.
